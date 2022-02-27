@@ -1,8 +1,8 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Abstracts;
+namespace Favinblockchain\Notifier\Abstracts;
 
-use Sinarajabpour1998\Notifier\Contracts\DriverInterface;
+use Favinblockchain\Notifier\Contracts\DriverInterface;
 
 abstract class Driver implements DriverInterface
 {

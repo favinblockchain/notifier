@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Facades;
+namespace Favinblockchain\Notifier\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

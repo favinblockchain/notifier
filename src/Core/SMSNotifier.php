@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Core;
+namespace Favinblockchain\Notifier\Core;
 
 class SMSNotifier
 {

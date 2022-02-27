@@ -1,5 +1,5 @@
 <?php
-namespace Sinarajabpour1998\Notifier\Repositories;
+namespace Favinblockchain\Notifier\Repositories;
 
 class NotifierRepository
 {

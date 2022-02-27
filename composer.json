@@ -1,5 +1,5 @@
 {
-    "name": "sinarajabpour1998/notifier",
+    "name": "favinblockchain/notifier",
     "type": "library",
     "description": "",
     "license": "MIT",
@@ -17,16 +17,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Sinarajabpour1998\\Notifier\\": "src/"
+            "Favinblockchain\\Notifier\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Sinarajabpour1998\\Notifier\\NotifierServiceProvider"
+                "Favinblockchain\\Notifier\\NotifierServiceProvider"
             ],
             "aliases": {
-                "Notifier" : "Sinarajabpour1998\\Notifier\\Facades\\Notifier"
+                "Notifier" : "Favinblockchain\\Notifier\\Facades\\Notifier"
             }
         }
     }

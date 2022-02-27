@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Contracts;
+namespace Favinblockchain\Notifier\Contracts;
 
 interface DriverInterface
 {

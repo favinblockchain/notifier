@@ -1,8 +1,8 @@
 # Laravel Notifier Package For Iranian SMS Services
-[![GitHub issues](https://img.shields.io/github/issues/sinarajabpour1998/notifier?style=flat-square)](https://github.com/sinarajabpour1998/notifier/issues)
-[![GitHub stars](https://img.shields.io/github/stars/sinarajabpour1998/notifier?style=flat-square)](https://github.com/sinarajabpour1998/notifier/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/sinarajabpour1998/notifier?style=flat-square)](https://github.com/sinarajabpour1998/notifier/network)
-[![GitHub license](https://img.shields.io/github/license/sinarajabpour1998/notifier?style=flat-square)](https://github.com/sinarajabpour1998/notifier/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/favinblockchain/notifier?style=flat-square)](https://github.com/favinblockchain/notifier/issues)
+[![GitHub stars](https://img.shields.io/github/stars/favinblockchain/notifier?style=flat-square)](https://github.com/favinblockchain/notifier/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/favinblockchain/notifier?style=flat-square)](https://github.com/favinblockchain/notifier/network)
+[![GitHub license](https://img.shields.io/github/license/favinblockchain/notifier?style=flat-square)](https://github.com/favinblockchain/notifier/blob/main/LICENSE)
 
 This is a Laravel Package for SMS Service Integration.
 
@@ -11,13 +11,13 @@ This is a Laravel Package for SMS Service Integration.
 - [ghasedak](https://ghasedak.io/)
 - [sms.ir](https://sms.ir/)
 
-## How to install and config [sinarajabpour1998/notifier](https://github.com/sinarajabpour1998/notifier) package?
+## How to install and config [favinblockchain/notifier](https://github.com/favinblockchain/notifier) package?
 
 #### Installation
 
 ```
 
-composer require sinarajabpour1998/notifier
+composer require favinblockchain/notifier
 
 ```
 

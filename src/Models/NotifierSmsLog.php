@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Models;
+namespace Favinblockchain\Notifier\Models;
 
 use App\Models\User;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

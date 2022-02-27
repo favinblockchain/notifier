@@ -1,10 +1,10 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Traits;
+namespace Favinblockchain\Notifier\Traits;
 
-use Sinarajabpour1998\Notifier\Facades\NotifierToolsFacade;
-use Sinarajabpour1998\Notifier\Models\NotifierSmsLog;
-use Sinarajabpour1998\Notifier\Models\NotifierSmsTemplate;
+use Favinblockchain\Notifier\Facades\NotifierToolsFacade;
+use Favinblockchain\Notifier\Models\NotifierSmsLog;
+use Favinblockchain\Notifier\Models\NotifierSmsTemplate;
 
 trait SMSTrait
 {

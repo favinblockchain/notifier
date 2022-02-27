@@ -1,9 +1,9 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier\Drivers;
+namespace Favinblockchain\Notifier\Drivers;
 
-use Sinarajabpour1998\Notifier\Traits\SMSTrait;
-use Sinarajabpour1998\Notifier\Abstracts\Driver;
+use Favinblockchain\Notifier\Traits\SMSTrait;
+use Favinblockchain\Notifier\Abstracts\Driver;
 use GuzzleHttp\Client;
 
 class Smsir extends Driver

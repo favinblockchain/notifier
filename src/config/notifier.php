@@ -81,7 +81,7 @@ return [
     |
     */
     'drivers' => [
-        'ghasedak' => \Sinarajabpour1998\Notifier\Drivers\Ghasedak::class,
-        'smsir' => \Sinarajabpour1998\Notifier\Drivers\Smsir::class
+        'ghasedak' => \Favinblockchain\Notifier\Drivers\Ghasedak::class,
+        'smsir' => \Favinblockchain\Notifier\Drivers\Smsir::class
     ]
 ];

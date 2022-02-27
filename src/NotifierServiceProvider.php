@@ -1,12 +1,12 @@
 <?php
 
-namespace Sinarajabpour1998\Notifier;
+namespace Favinblockchain\Notifier;
 
-use Sinarajabpour1998\Notifier\Repositories\NotifierRepository;
-use Sinarajabpour1998\Notifier\Core\SMSNotifier;
-use Sinarajabpour1998\Notifier\Facades\Notifier;
+use Favinblockchain\Notifier\Repositories\NotifierRepository;
+use Favinblockchain\Notifier\Core\SMSNotifier;
+use Favinblockchain\Notifier\Facades\Notifier;
 use Illuminate\Support\ServiceProvider;
-use Sinarajabpour1998\Notifier\Facades\NotifierToolsFacade;
+use Favinblockchain\Notifier\Facades\NotifierToolsFacade;
 
 class NotifierServiceProvider extends ServiceProvider
 {
