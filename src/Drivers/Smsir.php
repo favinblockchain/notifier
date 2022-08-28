@@ -128,9 +128,7 @@ class Smsir extends Driver
         $this->setUser();
         $client = new Client();
         $body = [
-            'ParameterArray' => [
-                $this->template_params
-            ],
+            'ParameterArray' => $this->template_params,
             "Mobile" => $this->user->mobile,
             "TemplateId" => $this->sms_ir_templateId
         ];
