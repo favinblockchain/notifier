@@ -8,11 +8,13 @@ use Favinblockchain\Notifier\Models\NotifierSmsTemplate;
 
 trait SMSTrait
 {
-    protected $userId, $templateId, $params, $options;
-    protected $user, $template, $original_template;
+    protected $userId, $templateId, $params, $options, $sms_ir_templateId;
+    protected $user, $template, $original_template, $template_params;
 
-    protected function setVariables($userId,$templateId,$params,$options)
+    protected function setVariables($userId,$templateId,$params,$options, $template_params = [], $sms_ir_templateId = null)
     {
+        $this->template_params = $template_params;
+        $this->sms_ir_templateId = $sms_ir_templateId;
         $this->userId = $userId;
         if (is_null($templateId) || $templateId == 0){
             throw new \ErrorException("templateId can't be 0 or null");
